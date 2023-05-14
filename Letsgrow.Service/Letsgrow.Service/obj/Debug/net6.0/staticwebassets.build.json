@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "2PKj3i6V4Mv0cmhI8122zbXDgRpub0C+kxGw6iEwTyM=",
+  "Source": "Letsgrow.Service",
+  "BasePath": "_content/Letsgrow.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Projects\\Letsgrow\\Letsgrow.Model\\Letsgrow.Model.csproj",
+      "Version": 2,
+      "Source": "Letsgrow.Model",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

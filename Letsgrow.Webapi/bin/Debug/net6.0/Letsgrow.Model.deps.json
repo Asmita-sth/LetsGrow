@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Letsgrow.Model/1.0.0": {
+        "runtime": {
+          "Letsgrow.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Letsgrow.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
