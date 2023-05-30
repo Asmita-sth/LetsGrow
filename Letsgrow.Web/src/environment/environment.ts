@@ -5,14 +5,5 @@
 export const environment = {
   config: 'config/app-config.json',
   production: false,
-  hmr: false,
-  // firebase: {
-  //   apiKey: "AIzaSyC61LPt56x-Pgdy7Y9AjoEivPknhAWx9yI",
-  //   authDomain: "zenople.firebaseapp.com",
-  //   databaseURL: "https://zenople.firebaseio.com",
-  //   projectId: "zenople",
-  //   storageBucket: "zenople.appspot.com",
-  //   messagingSenderId: "1010388525952",
-  //   appId: "1:1010388525952:web:9d0d382826914369f95765"
-  // }
+  hmr: false
 };
